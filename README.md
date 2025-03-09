@@ -28,3 +28,6 @@
   - Bar chart of cash flows over time (including coupon payments and final principal repayment)
   - Total cash flow sum
   - Number of payment periods
+
+## Screenshots
+![output](output_.png)
